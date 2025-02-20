@@ -1,0 +1,6 @@
+name: RePokeCard
+version: '${project.version}'
+main: io.github.swagree.pokecard.Main
+commands:
+  rpc:
+    description: SwagRee's PokeCard
